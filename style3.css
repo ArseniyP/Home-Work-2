@@ -1,0 +1,27 @@
+body{
+    background-color: #f5f5f5;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+dfn {
+    font-style: normal;
+}
+
+.code {
+    color: #a75757;
+    font-weight: bold;
+}
+
+pre {
+    background-color: #e7e7e7;
+}
+
+a {
+    background-color: #e7e7e7;
+    font-size: 13px;
+}
